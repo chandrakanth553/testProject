@@ -1,0 +1,32 @@
+.h1, h1 {
+  font-weight:600;
+}
+
+ol, ul {
+  margin-top:auto;
+}
+
+.btn.btn-success {
+  margin:auto;
+  margin-top:60px;
+}
+
+.h3, h3 {
+  font-weight:600;
+}
+
+.btn.btn-default.btn-block {
+  background-color:white;
+  font-weight:500;
+}
+
+.btn-default.active.focus, .btn-default.active:focus, .btn-default.active:hover, .btn-default:active.focus, .btn-default:active:focus, .btn-default:active:hover, .open > .dropdown-toggle.btn-default.focus, .open > .dropdown-toggle.btn-default:focus, .open > .dropdown-toggle.btn-default:hover {
+  color:#822a2a;
+  background-color:#d4d4d4;
+  border-color:#f1eeee;
+}
+
+.col-lg-3, .col-md-3, .col-sm-3{
+margin: 0px;
+padding: 0px;
+}
